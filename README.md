@@ -27,3 +27,5 @@ The dashboard provides deep insights into sales performance across different reg
 - Time Series Forecasting
 # 📸 Dashboard Preview
 
+<img width="1221" height="547" alt="Image" src="https://github.com/user-attachments/assets/0da8c203-eecb-4298-92bf-52fa2019cec2" />
+
