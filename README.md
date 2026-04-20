@@ -31,3 +31,5 @@ The dashboard provides deep insights into sales performance across different reg
 
 <img width="1226" height="547" alt="Image" src="https://github.com/user-attachments/assets/859b4be4-1c13-4ebb-bb7b-f72fdc0e526e" />
 
+<img width="1220" height="539" alt="Image" src="https://github.com/user-attachments/assets/cf2e1299-ee07-40f5-82cc-a2e784f62f97" />
+
