@@ -10,20 +10,20 @@ The dashboard provides deep insights into sales performance across different reg
 - 💰 Total Revenue: $420.82M
 - 📈 Total Profit: $84.16M
 - 📦 Units Sold: 12K+
-👥 Customers: 1400+
+- 👥 Customers: 1400+
 # 📈 Features
 - 🌍 Region-wise sales analysis (Map visualization)
 - 📊 Monthly sales, revenue & profit trends
--📱 Brand performance comparison (Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme)
--💡 Profit vs Sales analysis
--🧩 Category segmentation (Budget, Mid-range, Premium)
--💳 Payment mode analysis (UPI, Credit Card, Debit Card, Net Banking, Cash)
--🔮 Sales Forecast for next 12 months (Time Series Analysis)
--🎛️ Interactive filters for dynamic exploration
+- 📱 Brand performance comparison (Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme)
+- 💡 Profit vs Sales analysis
+- 🧩 Category segmentation (Budget, Mid-range, Premium)
+- 💳 Payment mode analysis (UPI, Credit Card, Debit Card, Net Banking, Cash)
+- 🔮 Sales Forecast for next 12 months (Time Series Analysis)
+- 🎛️ Interactive filters for dynamic exploration
 # 🛠️ Tools & Technologies
--Power BI (Dashboard & Visualization)
--Data Cleaning & Transformation
--Data Analysis
--Time Series Forecasting
+- Power BI (Dashboard & Visualization)
+- Data Cleaning & Transformation
+- Data Analysis
+- Time Series Forecasting
 # 📸 Dashboard Preview
 
