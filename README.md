@@ -7,13 +7,13 @@ This project is an end-to-end Data Analytics and Business Intelligence dashboard
 The dashboard provides deep insights into sales performance across different regions, brands, categories, and payment modes. It also includes a 12-month sales forecast to support data-driven decision-making.
 
 # 🔍 Key Insights
-💰 Total Revenue: $420.82M
-📈 Total Profit: $84.16M
-📦 Units Sold: 12K+
+- 💰 Total Revenue: $420.82M
+- 📈 Total Profit: $84.16M
+- 📦 Units Sold: 12K+
 👥 Customers: 1400+
 # 📈 Features
--🌍 Region-wise sales analysis (Map visualization)
--📊 Monthly sales, revenue & profit trends
+- 🌍 Region-wise sales analysis (Map visualization)
+- 📊 Monthly sales, revenue & profit trends
 -📱 Brand performance comparison (Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme)
 -💡 Profit vs Sales analysis
 -🧩 Category segmentation (Budget, Mid-range, Premium)
